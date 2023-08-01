@@ -23,6 +23,7 @@ setup(
         "Programming Language :: Python :: 3",
         "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
+        "Programming Language :: Python :: 3.10",
     ],
     packages=["youtube_search"],
     include_package_data=True,
